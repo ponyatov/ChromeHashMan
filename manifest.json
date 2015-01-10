@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	
+	"name": "HashMan", // название плагина
+	"version": "0.0.1", // версия
+	"description": "Social p2p Network for Friend search on your interests",
+	
+	// "permissions": [] , // разрешения
+	
+	"browser_action": {
+		"default_title": "HashMan", // называние кнопки
+		"default_icon": "icon128.png", // иконка
+		"default_popup": "pupup.html"		
+	},
+	
+	"options_page": "options.html", // настройки
+	
+	"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" }
+}
