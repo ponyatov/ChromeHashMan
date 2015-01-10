@@ -1,4 +1,4 @@
-Google HashMan (HM)
+Chrome HashMan (HM)
 
 (c) Dmitry Ponyatov <dponyatov@gmail.com>
 
