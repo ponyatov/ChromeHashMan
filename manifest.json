@@ -4,13 +4,15 @@
 	"name": "HashMan", // название плагина
 	"version": "0.0.1", // версия
 	"description": "Social p2p Network for Friend search on your interests",
-	
-	// "permissions": [] , // разрешения
+
+	"permissions": [ // разрешения
+		"tabs"
+	],
 	
 	"browser_action": {
 		"default_title": "HashMan", // называние кнопки
-		"default_icon": "icon128.png", // иконка
-		"default_popup": "pupup.html"		
+		"default_icon": "icon48.png", // иконка
+		"default_popup": "popup.html"		
 	},
 	
 	"options_page": "options.html", // настройки
